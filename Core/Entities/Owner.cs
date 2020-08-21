@@ -8,5 +8,7 @@
 
         public string Avatar { get; set; }
 
+        public Address Address { get; set; }
+
     }
 }
